@@ -1,0 +1,25 @@
+.less .css {
+  background: red;
+  color: green;
+  margin: 20px 0 0 20px;
+}
+.less .css p {
+  color: red;
+  font-size: 12px;
+}
+* {
+  background: #eee;
+  color: #333;
+  padding-left: 33px;
+}
+p {
+  font-size: 32px;
+  box-shadow: 3px 3px 3px #fff;
+}
+ul li {
+  font-size: 24px;
+  color: blue;
+}
+ul li h2 {
+  max-resolution: 10px;
+}

@@ -1,0 +1,14 @@
+ 
+* {
+  background: #eee;
+  color: #666;
+  padding-left: 123px;
+}
+p {
+  font-size: 32px;
+  box-shadow: 3px 3px 3px red;
+}
+ul li {
+  font-size: 24px;
+  color: red;
+}
